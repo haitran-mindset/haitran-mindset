@@ -94,9 +94,9 @@ beautiful UI, smooth animations and clean architecture.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=haitran-mindset&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitran-mindset&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -106,7 +106,7 @@ beautiful UI, smooth animations and clean architecture.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=haitran-mindset&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -116,7 +116,7 @@ beautiful UI, smooth animations and clean architecture.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haitran-mindset&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -126,7 +126,7 @@ beautiful UI, smooth animations and clean architecture.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/haitran-mindset/haitran-mindset/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -142,7 +142,7 @@ beautiful UI, smooth animations and clean architecture.
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/haitran-mindset">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -164,6 +164,6 @@ beautiful UI, smooth animations and clean architecture.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=haitran-mindset&style=for-the-badge"/>
 
 </div>
