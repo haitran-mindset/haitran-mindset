@@ -119,25 +119,3 @@ beautiful UI, smooth animations and clean architecture.
 > *"First, solve the problem. Then, write the code."* — Hai Tran
 
 ---
-
-# 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/haitran-mindset">
-    <img src="https://skillicons.dev/icons?i=github" height="32" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/haitran-mindset/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
-  </a>
-
-  <a href="https://haitran-portfolio.vercel.app">
-    <img src="https://skillicons.dev/icons?i=vercel" height="32" />
-  </a>
-
-  <a href="mailto:tranvanngochai13@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
-  </a>
-</p>
-
----
