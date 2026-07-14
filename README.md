@@ -82,18 +82,6 @@ beautiful UI, smooth animations and clean architecture.
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=haitran-mindset&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitran-mindset&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
