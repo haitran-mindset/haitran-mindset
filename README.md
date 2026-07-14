@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=haitran-mindset&style=for-the-badge"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://haitran-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://haimindset.me)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-haitran--mindset-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haitran-mindset)
 
