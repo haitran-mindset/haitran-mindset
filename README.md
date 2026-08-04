@@ -82,16 +82,6 @@ beautiful UI, smooth animations and clean architecture.
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=haitran-mindset&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
 # 📊 Activity Graph
 
 <div align="center">
