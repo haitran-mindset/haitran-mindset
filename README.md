@@ -82,16 +82,6 @@ beautiful UI, smooth animations and clean architecture.
 
 ---
 
-# 📊 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haitran-mindset&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
 # 💭 Quote
 
 > *"First, solve the problem. Then, write the code."* — Hai Tran
